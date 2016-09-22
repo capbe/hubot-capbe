@@ -12,5 +12,6 @@
   "hubot-shipit",
   "hubot-karma-classic",
   "hubot-drupal",
-  "hubot-auth"
+  "hubot-auth",
+  "hubot-remind"
 ]
